@@ -1,6 +1,6 @@
-# BuildStatus
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/86e7431ece71406b9b551c3e48238077)](https://app.codacy.com/app/oliverwreath/AngularCommonEngine?utm_source=github.com&utm_medium=referral&utm_content=oliverwreath/AngularCommonEngine&utm_campaign=Badge_Grade_Dashboard)
-[![Build Status](https://travis-ci.org/oliverwreath/AngularCommonEngine.svg?branch=master)](https://travis-ci.org/oliverwreath/AngularCommonEngine)
+## BuildStatus
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/79606772ea694349bf9b89526aa45699)](https://www.codacy.com/app/oliverwreath/AngularCommonWebsite?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oliverwreath/AngularCommonWebsite&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/oliverwreath/AngularCommonWebsite.svg?branch=master)](https://travis-ci.org/oliverwreath/AngularCommonWebsite)
 
 # MyTodoList
 
