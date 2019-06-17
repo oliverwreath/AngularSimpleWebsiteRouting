@@ -18,7 +18,6 @@ cache:
 
 install:
   - npm install
-  - npm install --save bootstrap@3
 
 script:
   - ng lint
