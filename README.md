@@ -32,8 +32,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Reference for Event Binding
 (focus)="myMethod()"
-(blur)="myMethod()" 
-(submit)="myMethod()"  
+(blur)="myMethod()"
+(submit)="myMethod()"
 (scroll)="myMethod()"
 
 
