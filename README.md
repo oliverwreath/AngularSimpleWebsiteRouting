@@ -2,6 +2,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/79606772ea694349bf9b89526aa45699)](https://www.codacy.com/app/oliverwreath/AngularCommonWebsite?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oliverwreath/AngularCommonWebsite&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/oliverwreath/AngularSimpleWebsiteRouting.svg?branch=master)](https://travis-ci.org/oliverwreath/AngularSimpleWebsiteRouting)
 
+[![Dependency Status](https://david-dm.org/oliverwreath/AngularSimpleWebsiteRouting.svg)](https://david-dm.org/oliverwreath/AngularSimpleWebsiteRouting) [![devDependency Status](https://david-dm.org/oliverwreath/AngularSimpleWebsiteRouting/dev-status.svg)](https://david-dm.org/oliverwreath/AngularSimpleWebsiteRouting?type=dev) 
+
 # MyTodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
